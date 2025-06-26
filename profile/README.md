@@ -68,6 +68,10 @@
 
 ## 🎥 시연 화면
 
+### 메인
+![main](https://github.com/user-attachments/assets/e89a93e8-c453-4865-aaf4-a4e89bbadafc)
+
+
 <br>
 
 ## ⚙️ 개발 환경 및 기술 스택
