@@ -1,6 +1,14 @@
 # 도시락에 즐거움을 담다, 도락도락
 <br>
 
+## 👥 Team Members (팀원 및 팀 소개)
+| 이나연 | 김현지 | 유수상 | 홍원준 |
+|:------:|:------:|:------:|:------:|
+| <img src="https://github.com/yeon2lee.png" width="150"> | <img src="https://github.com/hyeonzi423.png" width="150"> | <img src="https://github.com/yss0512.png" width="150"> | <img src="https://github.com/price126.png" width="150"> |
+| BE | FE | BE | BE |
+| [GitHub](https://github.com/yeon2lee) | [GitHub](https://github.com/hyeonzi423) | [GitHub](https://github.com/yss0512) | [GitHub](https://github.com/price126) |
+<br>
+
 ## 🖥️ 프로젝트 기획 의도 및 목표
 ### 기획
 ![001](https://github.com/user-attachments/assets/27557d25-6396-49b5-963c-4c5bf67c70df)
