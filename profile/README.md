@@ -1,48 +1,83 @@
 # 도시락에 즐거움을 담다, 도락도락
+<br>
 
 ## 🖥️ 프로젝트 기획 의도 및 목표
 ### 기획
-![003](https://github.com/user-attachments/assets/763306f4-e9fe-456b-9f60-a57c6312a80d)
-![004](https://github.com/user-attachments/assets/9d3edb16-ffa2-4880-8e29-d6d31a71f1e9)
-![005](https://github.com/user-attachments/assets/6a2ea047-67d4-4218-8c53-d753efbc1062)
-![006](https://github.com/user-attachments/assets/36e1ab48-8bf6-4e74-9415-12a89566d8a7)
+![001](https://github.com/user-attachments/assets/27557d25-6396-49b5-963c-4c5bf67c70df)
+![002](https://github.com/user-attachments/assets/17bd6825-3345-46bb-8928-fbc5cc9a90cd)
+![003](https://github.com/user-attachments/assets/caab5229-2eef-4e96-a7ea-2b2723f9e796)
+![004](https://github.com/user-attachments/assets/008a3666-04bc-4f40-91b6-c24f13e3e5c2)
+
+<br>
 
 ### 목표
-![007](https://github.com/user-attachments/assets/148a859f-c451-485a-a0ae-6f93cafc2c1d)
+![005](https://github.com/user-attachments/assets/f41f5083-219b-400a-a3b9-4c9b01e790b1)
+
+<br>
 
 ## 🕰️ 개발 기간
-2025년 5월 26일 - 2025년 6월 23일
+### 2025년 5월 26일 - 2025년 6월 23일
+![006](https://github.com/user-attachments/assets/d02ebc43-77d0-400e-becb-78d6f2d01365)
+
+<br>
 
 ## 🔍 주요 기능
-![031](https://github.com/user-attachments/assets/e9f473a9-a78b-4252-b626-ba64bbf64177)
-![032](https://github.com/user-attachments/assets/d65e76ad-3879-4543-a76b-72d4699df28d)
-![033](https://github.com/user-attachments/assets/29e17322-17c7-4700-9f0a-69178a7e2083)
-![034](https://github.com/user-attachments/assets/80537b20-05b4-4e60-9f58-450fc591cff2)
-![035](https://github.com/user-attachments/assets/8bcbe097-5f7d-4f20-8949-8df679290fc3)
+### 맞춤형 도시락 생성
+![013](https://github.com/user-attachments/assets/8a80c004-3044-4e73-b0ad-75a4b5394073)
+![014](https://github.com/user-attachments/assets/dc04338b-202c-4979-a884-44b12c75681c)
 
+### 공동 구매 확정 로직
+![015](https://github.com/user-attachments/assets/651a49fe-b19b-4cc6-9963-4f4e27cccd84)
+
+### QR코드 기반 제로웨이스트 인증
+![016](https://github.com/user-attachments/assets/ef2563d2-ac93-4796-8733-ee9b548bf2b0)
+![017](https://github.com/user-attachments/assets/1e8c5bd9-86e2-4b0a-b864-f0e2b1cac02a)
+![018](https://github.com/user-attachments/assets/5f2b8902-0b37-4b14-a42d-29407b522818)
+
+<br>
 
 ## 🎥 시연 화면
+
+<br>
 
 ## ⚙️ 개발 환경 및 기술 스택
 
 ### Back-End
-![016](https://github.com/user-attachments/assets/5927c50c-7454-459b-a1a8-eaae0e696f67)
+![008](https://github.com/user-attachments/assets/4a845150-e9b9-4561-8e9f-2476fd92d3ac)
 
 ### Front-End
-![017](https://github.com/user-attachments/assets/7c5ae5cf-acd5-4f73-9624-8d568e8856a5)
+![009](https://github.com/user-attachments/assets/ab6fd99f-1ec0-49f7-ac7f-12ba56b7650b)
 
 ### Database, Infra
-![018](https://github.com/user-attachments/assets/0f6ca470-cec8-4677-a9b4-5102e662a9dd)
+![010](https://github.com/user-attachments/assets/74c69c25-3268-4b69-9a86-8b21b7979a6b)
 
 ### Tools
-![019](https://github.com/user-attachments/assets/331d1fce-e2f2-4c2c-b03c-23a22f14efb0)
+![011](https://github.com/user-attachments/assets/ec113cdb-c47b-420a-bba0-d2efa618724d)
+
+<br>
 
 ## 🧱 아키텍쳐
-![027](https://github.com/user-attachments/assets/c89fbbfb-c553-4e73-bf0e-5219dbb4a16c)
+![012](https://github.com/user-attachments/assets/852e7694-dd50-4ac7-adc6-d989f85c6de2)
 
+<br>
 
 ## 🧑‍🤝‍🧑 팀 소개
-- **이나연** : 
-- **김현지** :
-- **유수상** :
-- **홍원준** :
+- **이나연** [@yeon2lee](https://github.com/yeon2lee)
+  - 전체 기획 / 일정 총괄
+  - 주문 및 결제
+  - 제로웨이스트 인증
+    
+- **김현지** [@hyeonzi423](https://github.com/hyeonzi423)
+  - 프론트엔드 총괄
+  - 와이어프레임 및 UI/UX 설계
+  - 관리자 기능
+    
+- **유수상** [@yss0512](https://github.com/yss0512)
+  - 백엔드 총괄
+  - 맞춤형 도시락 생성
+  - 회원 관리 기능
+    
+- **홍원준** [@price126](https://github.com/price126)
+  - 인프라 총괄
+  - 도시락 정보 관리
+  - 알림, 마이페이지
