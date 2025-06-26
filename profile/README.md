@@ -1,13 +1,34 @@
 # 도시락에 즐거움을 담다, 도락도락
 <br>
 
-## 👥 Team Members (팀원 및 팀 소개)
+## 👥 팀 소개
 | 이나연 | 김현지 | 유수상 | 홍원준 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/yeon2lee.png" width="150"> | <img src="https://github.com/hyeonzi423.png" width="150"> | <img src="https://github.com/yss0512.png" width="150"> | <img src="https://github.com/price126.png" width="150"> |
 | BE | FE | BE | BE |
 | [GitHub](https://github.com/yeon2lee) | [GitHub](https://github.com/hyeonzi423) | [GitHub](https://github.com/yss0512) | [GitHub](https://github.com/price126) |
 <br>
+
+## 🧑‍🤝‍🧑 담당 역할
+- **이나연** [@yeon2lee](https://github.com/yeon2lee)
+  - 전체 기획 / 일정 총괄
+  - 주문 및 결제
+  - 제로웨이스트 인증
+    
+- **김현지** [@hyeonzi423](https://github.com/hyeonzi423)
+  - 프론트엔드 총괄
+  - 와이어프레임 및 UI/UX 설계
+  - 관리자 기능
+    
+- **유수상** [@yss0512](https://github.com/yss0512)
+  - 백엔드 총괄
+  - 맞춤형 도시락 생성
+  - 회원 관리 기능
+    
+- **홍원준** [@price126](https://github.com/price126)
+  - 인프라 총괄
+  - 도시락 정보 관리
+  - 알림, 마이페이지
 
 ## 🖥️ 프로젝트 기획 의도 및 목표
 ### 기획
@@ -68,24 +89,3 @@
 ![012](https://github.com/user-attachments/assets/852e7694-dd50-4ac7-adc6-d989f85c6de2)
 
 <br>
-
-## 🧑‍🤝‍🧑 팀 소개
-- **이나연** [@yeon2lee](https://github.com/yeon2lee)
-  - 전체 기획 / 일정 총괄
-  - 주문 및 결제
-  - 제로웨이스트 인증
-    
-- **김현지** [@hyeonzi423](https://github.com/hyeonzi423)
-  - 프론트엔드 총괄
-  - 와이어프레임 및 UI/UX 설계
-  - 관리자 기능
-    
-- **유수상** [@yss0512](https://github.com/yss0512)
-  - 백엔드 총괄
-  - 맞춤형 도시락 생성
-  - 회원 관리 기능
-    
-- **홍원준** [@price126](https://github.com/price126)
-  - 인프라 총괄
-  - 도시락 정보 관리
-  - 알림, 마이페이지
