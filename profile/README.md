@@ -87,6 +87,6 @@
 <br>
 
 ## 🧱 아키텍쳐
-![012](https://github.com/user-attachments/assets/852e7694-dd50-4ac7-adc6-d989f85c6de2)
+![1차-프로젝트-PPT_현지_리드미용-012](https://github.com/user-attachments/assets/a38cb2c2-dfa3-4e5e-9a94-f7a66845baa1)
 
 <br>
