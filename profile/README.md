@@ -5,7 +5,7 @@
 | 이나연 | 김현지 | 유수상 | 홍원준 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/yeon2lee.png" width="150"> | <img src="https://github.com/hyeonzi423.png" width="150"> | <img src="https://github.com/yss0512.png" width="150"> | <img src="https://github.com/price126.png" width="150"> |
-| BE | FE | BE | BE |
+| 팀장 | 팀원 | 팀원 | 팀원 |
 | [GitHub](https://github.com/yeon2lee) | [GitHub](https://github.com/hyeonzi423) | [GitHub](https://github.com/yss0512) | [GitHub](https://github.com/price126) |
 <br>
 
