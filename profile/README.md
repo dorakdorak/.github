@@ -69,7 +69,7 @@
 ## 🎥 시연 화면
 
 ### 메인
-![main](https://github.com/user-attachments/assets/e89a93e8-c453-4865-aaf4-a4e89bbadafc)
+![main](https://github.com/user-attachments/assets/3bcbdb39-ddbd-4ec4-883f-031e1d0e23b5))
 
 ### 도시락 조회
 | 도시락 목록 조회 | 도시락 상세 조회 |
