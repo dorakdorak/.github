@@ -74,7 +74,7 @@
 ### 도시락 조회
 | 도시락 목록 조회 | 도시락 상세 조회 |
 |------------------|------------------|
-| <img src="https://github.com/user-attachments/assets/461de824-b585-48ad-8057-4e77ce39b874"/> | <img src="https://github.com/user-attachments/assets/57642b90-09f8-4d42-8cd5-1bf0fbdb834c"/> |
+| <img src="https://github.com/user-attachments/assets/485676bd-5397-4437-97f2-3e584dafa6b7"/> | <img src="https://github.com/user-attachments/assets/50b8f9be-535d-4da3-994b-0043e8674212"/> |
 | 카테고리, 정렬 기준으로 도시락 목록 조회 가능 | 상세 이미지 및 영양정보 표 확인 가능 |
 
 
