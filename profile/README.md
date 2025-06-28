@@ -68,14 +68,76 @@
 
 ## 🎥 시연 화면
 
+## 사용자
+
 ### 메인
-![main](https://github.com/user-attachments/assets/3bcbdb39-ddbd-4ec4-883f-031e1d0e23b5))
+![main](https://github.com/user-attachments/assets/3bcbdb39-ddbd-4ec4-883f-031e1d0e23b5)
+
+<br>
 
 ### 도시락 조회
 | 도시락 목록 조회 | 도시락 상세 조회 |
 |------------------|------------------|
 | <img src="https://github.com/user-attachments/assets/485676bd-5397-4437-97f2-3e584dafa6b7"/> | <img src="https://github.com/user-attachments/assets/50b8f9be-535d-4da3-994b-0043e8674212"/> |
 | 카테고리, 정렬 기준으로 도시락 목록 조회 가능 | 상세 이미지 및 영양정보 표 확인 가능 |
+
+<br>
+
+### 공동 구매
+![group-order](https://github.com/user-attachments/assets/1914bd38-2346-48aa-b9c0-e81774cf6885)
+
+<br>
+
+### 맞춤형 도시락 생성
+| 맞춤형 도시락 생성 질문 | 맞춤형 도시락 생성 완료 |
+|------------------|------------------|
+| <img src="https://github.com/user-attachments/assets/de6d3911-6c1e-465b-bd54-29a1c20439c0"/> | <img src="https://github.com/user-attachments/assets/f0d7ee93-4618-4dcd-aff3-8253a1bd41ed"/> |
+| 간단한 4가지 질문만으로 생성 | 상세 이미지 및 영양정보 표 확인 가능 |
+
+<br>
+
+### 맞춤형 도시락 투표
+![Image](https://github.com/user-attachments/assets/36bd6ddd-cff0-4261-a8b8-5a6deeba9a29)
+
+<br>
+
+### 제로 웨이스트 랭킹
+![Image](https://github.com/user-attachments/assets/afad86e3-4431-47af-8706-51980f99b601)
+
+<br>
+
+### 회원가입 / 로그인
+| 회원가입 | 로그인 |
+|------------------|------------------|
+| <img src="https://github.com/user-attachments/assets/d8cbc4d6-5960-4243-86f0-26d371fe030c"/> | <img src="https://github.com/user-attachments/assets/46ac6d01-84ed-422c-9336-e11f8a46d85f"/> |
+| 이메일 인증, 알레르기 정보 수집 | 이메일 기반 로그인 |
+
+<br>
+
+### 마이페이지
+| 마이페이지 메인 | 일반 주문 목록 |
+|----------------|----------------|
+| ![마이페이지](https://github.com/user-attachments/assets/a9d8ef49-4e17-4fae-8457-1702fea4cf98) | ![일반주문](https://github.com/user-attachments/assets/9569fbca-e3e3-48bb-847c-babc76ccf33f) |
+
+| 공동 주문 목록 | 맞춤형 도시락 생성 목록 |
+|----------------|--------------------------|
+| ![공동주문](https://github.com/user-attachments/assets/487e9c48-2d08-42ce-abd7-92edba62604e) | ![맞춤형도시락](https://github.com/user-attachments/assets/706b1f1c-71ff-4891-9f0f-ae6ca4dcf144) |
+
+<br>
+
+## 관리자
+
+### 주문 관리 / 정식 메뉴 관리
+| 주문 관리 | 메뉴 관리 |
+|------------------|------------------|
+| ![어드민 주문 관리](https://github.com/user-attachments/assets/db18ce59-8825-4fdd-a8e2-200d2363e6ad) | ![어드민 메뉴 관리](https://github.com/user-attachments/assets/817e5b4e-2039-4130-ae09-0fff56340654) |
+
+<br>
+
+### 통계
+| 주문 통계 | 인기 도시락 통계 | 주문 비율 통계 |
+|------------------|------------------|-------------------------|
+| ![주문 통계](https://github.com/user-attachments/assets/2f4c8769-13d7-4b1d-976f-3c8215bc98dc) | ![인기 통계](https://github.com/user-attachments/assets/f707cc3d-7cff-4891-b85d-059dc802802a) | ![주문 비율 통계](https://github.com/user-attachments/assets/c56eced1-f573-4ae8-af51-16726832db12) |
 
 
 <br>
