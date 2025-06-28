@@ -101,7 +101,15 @@
 
 <br>
 
-### 제로 웨이스트 랭킹
+### 제로 웨이스트 인증
+| 인증 접속 | 인증 성공 | 인증 실패 |
+|--------------------|------------------|----------------------|
+| ![인증 접속](https://github.com/user-attachments/assets/5be96dca-08c6-493a-80ff-1854d098536e) | ![인증 성공](https://github.com/user-attachments/assets/f5be132f-de0b-474b-9f17-2e7e3b489fea) | ![인증 실패](https://github.com/user-attachments/assets/f844496c-017a-4f73-bf0c-e04d9688fb07) |
+
+
+<br>
+
+### 제로 웨이스트 대학별 랭킹
 ![Image](https://github.com/user-attachments/assets/afad86e3-4431-47af-8706-51980f99b601)
 
 <br>
